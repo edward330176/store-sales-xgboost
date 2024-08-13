@@ -29,7 +29,7 @@
 3. **Periodogram:**
    - A periodogram is plotted to identify significant frequencies in the time series data, confirming the presence of annual and weekly seasonality.
 
-![periodogram](img/preiodogram.png)
+![periodogram](img/periodogram.png)
 
 ## Feature Engineering
 

@@ -1,5 +1,7 @@
 # Store Sales Time Series Forecasting
 
+[![Static Badge](https://img.shields.io/badge/View_on-Kaggle-blue)](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview)
+
 ## Data Preparation
 
 1. **Loading the Data:**
@@ -63,4 +65,8 @@
 ## Conclusion
 
 This project demonstrates a comprehensive approach to time series forecasting by combining traditional statistical methods with machine learning techniques. The use of feature engineering, including seasonality and holiday effects, along with advanced models like XGBoost, provides a robust framework for forecasting store sales.
+
+## Future Work
+
+The next step will be fine-tuning the model to prevent overfitting on training data.
 
